@@ -1,6 +1,15 @@
 {
   "name": "@rickton/num-flip-animation",
   "version": "0.0.1",
+  "keywords": [
+    "num",
+    "number",
+    "ts",
+    "typescript",
+    "flip",
+    "animation",
+    "滚动"
+  ],
   "files": [
     "dist"
   ],

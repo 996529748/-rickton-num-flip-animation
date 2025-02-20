@@ -2,6 +2,8 @@
 
 基于number-flip-animation更新，兼容IE10+
 
+[点击跳转Github仓库地址](https://github.com/996529748/-rickton-num-flip-animation)
+
 ## 安装
 
 ```bash
